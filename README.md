@@ -4,7 +4,7 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 > Words of caution: this is still a WIP. Use carefully, and don’t forget
-> to backup your bookdwon before using the app.
+> to backup your bookdown before using the app.
 
 # backyard
 
